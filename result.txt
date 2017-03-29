@@ -1,0 +1,6 @@
+------------result------------
+svm linear  33.7584171295166 seconds
+svm rbf  97.2481734752655 seconds
+svm poly  657.4626975059509 seconds
+svm LibearSVC  4.925602197647095 seconds
+K-nn  0.19124865531921387 seconds

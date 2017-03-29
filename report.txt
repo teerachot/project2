@@ -1,0 +1,18 @@
+=======amount data 9900 data digits---time predict----
+------SVM------
+time_Linear: 10.541969060897827sec 
+time_rbf: 30.309635877609253sec 
+time_poly: 35.76113486289978sec 
+time_LinearSVC: 0.002820253372192383sec 
+---------------
+time_knn: 29.925118446350098sec 
+
+---Accuracy_score----
+---Accuracy_score----
+------SVM------
+linear: 90.9090909091
+rbf: 94.3737373737
+poly: 11.3434343434
+LinearSVC: 88.1717171717
+---------------
+K-NN: 94.9393939394
